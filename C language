@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int a,b;
+  printf("%s","I am come from in china is college is student，This article is to prove my learning process (reading)\n");
+  printf("%s","Please enter yes or no,Enter a or B to proceed to the next step");
+  scanf("%c%c,a,b");
+  printf("%s","If you enter a, thank you. You can see my experience and b Well, thanks for watching");
+  printf("%s","There will be three days a shift or one Monday. I need time to study");
+  return 0;
+  }
